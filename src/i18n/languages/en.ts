@@ -14,7 +14,7 @@ export const en: Translation = {
 	[Key.comments]: "Comments",
 
 	[Key.untitled]: "Untitled",
-	[Key.uncategorized]: "Uncategorized",
+	[Key.uncategorized]: "Uncategorised",
 	[Key.noTags]: "No Tags",
 
 	[Key.wordCount]: "word",
@@ -24,7 +24,7 @@ export const en: Translation = {
 	[Key.postCount]: "post",
 	[Key.postsCount]: "posts",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "Theme Colour",
 
 	[Key.lightMode]: "Light",
 	[Key.darkMode]: "Dark",
