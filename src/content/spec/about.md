@@ -1,9 +1,4 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hi, I'm Hekky. I like VR, low-level programming, and graphics programming. I maintain popular VR software such as [Space Calibrator](https://s.team/a/3368750), and have contributed to major VR projects such as [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking), [PSVR2Toolkit](https://github.com/BnuuySolutions/PSVR2Toolbox), amongst other things.
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+You can contact me at `hekky@hyblocker.dev`.
